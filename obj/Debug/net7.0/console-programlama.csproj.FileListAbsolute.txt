@@ -1,0 +1,15 @@
+/Users/sinan/Desktop/Pratikler/console-programlama/bin/Debug/net7.0/console-programlama
+/Users/sinan/Desktop/Pratikler/console-programlama/bin/Debug/net7.0/console-programlama.deps.json
+/Users/sinan/Desktop/Pratikler/console-programlama/bin/Debug/net7.0/console-programlama.runtimeconfig.json
+/Users/sinan/Desktop/Pratikler/console-programlama/bin/Debug/net7.0/console-programlama.dll
+/Users/sinan/Desktop/Pratikler/console-programlama/bin/Debug/net7.0/console-programlama.pdb
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.csproj.AssemblyReference.cache
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.AssemblyInfoInputs.cache
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.AssemblyInfo.cs
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.dll
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/refint/console-programlama.dll
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.pdb
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/console-programlama.genruntimeconfig.cache
+/Users/sinan/Desktop/Pratikler/console-programlama/obj/Debug/net7.0/ref/console-programlama.dll
